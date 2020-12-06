@@ -70,7 +70,7 @@ Hi everyone, If you have no clue what you will do after the first 4 exciting day
 
 ## I would like to learn how to make a website 👨‍🎨
 
-* Start with [https://www.w3schools.com/](https://www.w3schools.com/)
+* Start with [MDN - Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 It is the best place for starting web development.
 
 * Learn how to make a website with a FrontEnd Framework (Angular JS, React JS, Vue JS).
